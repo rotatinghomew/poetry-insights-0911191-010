@@ -1,0 +1,3 @@
+area,min_sessions,priority_floor,protected_seats,release_time
+重点片区,1,1,12,开场前24小时
+常规片区,0,2,0,开场前24小时

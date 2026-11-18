@@ -1,0 +1,4 @@
+reservation_id,school,class_id,slot,seats,status,confirmed_at
+A1,莲池小学,六一班,周六早,28,已确认,2026-11-02
+A2,松风小学,五一班,周六午,31,已确认,2026-11-03
+A3,榆树小学,四一班,周六早,18,候补,

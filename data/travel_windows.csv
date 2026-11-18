@@ -1,0 +1,5 @@
+school,venue,slot,earliest_arrival,latest_arrival,uncertain
+莲池小学,西馆,周六早,09:10,09:30,false
+莲池小学,东馆,周六早,09:20,09:50,true
+松风小学,西馆,周六午,12:40,13:00,false
+榆树小学,西馆,周六早,09:25,09:55,true
